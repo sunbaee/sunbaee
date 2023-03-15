@@ -1,6 +1,6 @@
 <div>
   <h1>Olá, bem vindo ao meu perfil 👋</h1>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img height="90em" width="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
   <div align="center">
     <a href="https://github.com/sunbaee">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
