@@ -24,6 +24,10 @@
     <img align="right"height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
 </div>
 <div>
+    <h2>Redes sociais: </h2>
+    <a href="https://www.linkedin.com/in/lucas-bertazo-1454181b6/">.</a>
+    <a href="https://www.instagram.com/sunbaee._/">.</a>
+    <a href="saculbertazo@gmail.com">.</a>
 </div>
 <div>
   <a href="https://github.com/sunbaee">
