@@ -17,7 +17,7 @@
     </div>
     <br>
     <div>
-        <img src="https://tenor.com/bVJdY.gif">
+        <img src="https://media.tenor.com/fTTVgygGDh8AAAPo/kitty-cat-sandwich.mp4">
     </div>
     <div>
       <a href="https://github.com/sunbaee">
