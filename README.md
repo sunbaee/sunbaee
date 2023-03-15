@@ -17,7 +17,7 @@
     </div>
     <br>
     <div>
-        <img height="80em" width"80em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
+        <img height="100em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
     </div>
     <div>
       <a href="https://github.com/sunbaee">
