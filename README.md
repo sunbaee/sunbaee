@@ -28,7 +28,7 @@
     <p>Nessas redes eu posto informações sobre minha vida acadêmica, minhas experiências e minha carreira, sinta-se livre para dar uma olhada.</p>
     <a href="https://www.linkedin.com/in/lucas-bertazo-1454181b6/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/sunbaee._/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:saculbertazo@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br><br><br><br>
+    <a href="mailto:saculbertazo@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br><br>
 </div>
 <h2></h2>
 <div>
