@@ -19,16 +19,18 @@
     <ul>
         <li>Estou cursando ciência da computação na FADERGS e ainda tenho um longo caminho pela frente. 🥳</li>
         <li>Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meu repositório. 📚</li>
-        <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a> :)</li>
+        <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
-    <img align="right"height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
+    <img align="right" height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
 </div>
 <div>
     <h2>Redes sociais: </h2>
-    <a href="https://www.linkedin.com/in/lucas-bertazo-1454181b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/sunbaee._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="mailto:saculbertazo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <p>Nessas redes eu posto informações sobre minha vida acadêmica, minhas experiências e minha carreira, sinta-se livre para dar uma olhada.</p>
+    <a href="https://www.linkedin.com/in/lucas-bertazo-1454181b6/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/sunbaee._/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="mailto:saculbertazo@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br><br><br><br>
 </div>
+<h2></h2>
 <div>
   <a href="https://github.com/sunbaee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
