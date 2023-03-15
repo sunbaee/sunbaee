@@ -1,3 +1,3 @@
 ### Olá, bem vindo ao meu perfil 👋
 # 
-![Snake animation](https://github.com/sunbaee/sunbaee/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/sunbaee/sunbaee/blob/output/github-contribution-grid-snake.svg)
