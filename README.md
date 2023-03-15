@@ -27,7 +27,7 @@
     <h2>Redes sociais: </h2>
     <a href="https://www.linkedin.com/in/lucas-bertazo-1454181b6/">.</a>
     <a href="https://www.instagram.com/sunbaee._/">.</a>
-    <a href="mailto:contato@saculbertazo">.</a>
+    <a href="mailto:saculbertazo@gmail.com">.</a>
 </div>
 <div>
   <a href="https://github.com/sunbaee">
