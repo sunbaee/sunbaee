@@ -19,10 +19,10 @@
         <h2>Algumas informações: </h2>
         <ul>
             <li>Estou cursando ciência da computação na FADERGS e ainda tenho um longo caminho pela frente.</li>
-            <li>Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada em qualquer um deles, basta dar uma olhada por esse <a href="https://github.com/sunbaee?tab=repositories">link</a></li>
-            <li>Não esqueça de seguir minhas redes sociais :)</li>
+            <li>Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada em qualquer um deles, basta dar uma olhada por esse <a href="https://github.com/sunbaee?tab=repositories">link</a>.</li>
+            <li>Não esqueça de dar uma olhada nas minhas redes sociais :)</li>
         </ul>
-        <img height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
+        <img align="right"height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
     </div>
     <div>
       <a href="https://github.com/sunbaee">
