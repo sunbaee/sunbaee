@@ -15,9 +15,12 @@
         <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </div>
-    <br>
     <div>
-        <img height="100em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
+        <h1>.</h1>
+        <ul>
+            <li>Além das linguagens da programação que conheço, recentemente começei a cursar ciência da computação na FADERGS.</li>
+        </ul>
+        <img height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
     </div>
     <div>
       <a href="https://github.com/sunbaee">
