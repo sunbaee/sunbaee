@@ -3,7 +3,7 @@
         <h1>Seja bem-vindo ao meu perfil! 👋</h1>
         <h2>Prazer, meu nome é Lucas.</h2>
         <p>
-            Tenho 17 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente conheço Java orientado a objetos, C#, Python básico, HTML e CSS. Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem.
+            Tenho 17 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente conheço Java orientado a objetos, C#, Python básico, HTML e CSS e estou aprendendo cada vez mais!
         </p>
     </div>
     <div align="right">
@@ -16,9 +16,11 @@
         <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </div>
     <div>
-        <h1>.</h1>
+        <h2>Algumas informações: </h2>
         <ul>
-            <li>Além das linguagens da programação que conheço, recentemente começei a cursar ciência da computação na FADERGS.</li>
+            <li>Estou cursando ciência da computação na FADERGS e ainda tenho um longo caminho pela frente.</li>
+            <li>Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada em qualquer um deles, basta dar uma olhada por esse <a href="">link</a></li>
+            <li>Não esqueça de seguir minhas redes sociais :)</li>
         </ul>
         <img height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
     </div>
