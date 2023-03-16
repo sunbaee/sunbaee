@@ -19,6 +19,7 @@
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
         <li>Hoje em dia também estou aprendendo JavaScript, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meus repositórios. 📚</li>
+        <li>Futuramente também quero aprender React e Typescript para aprimorar meu desenvolvimento web, mas também quero experimentar estudar em outras áreas como machine learning e desenvolvimento de games.</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
     <img align="right" height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
