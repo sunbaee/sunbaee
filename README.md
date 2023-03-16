@@ -7,12 +7,12 @@
 </div>
 <div align="right">
     <h2>Linguagens</h2><br>
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="javascript icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="html icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="css icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="c sharp icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img alt="python icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 <div>
     <h2>Algumas informações: </h2>
@@ -22,7 +22,7 @@
         <li>Futuramente também quero aprender <b>React e Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
-    <img align="right" height="200em" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
+    <img align="right" height="200em" alt="cat GIF" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
 </div>
 <div>
     <h2>Redes sociais: </h2>
@@ -35,8 +35,8 @@
 <div align="center">
   <br>
   <a href="https://github.com/sunbaee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunbaee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img alt="most used languages in github" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="" height="180em" src="https://github-readme-stats.vercel.app/api?username=sunbaee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
     
   ![Snake animation](https://github.com/sunbaee/sunbaee/blob/output/github-contribution-grid-snake.svg)
