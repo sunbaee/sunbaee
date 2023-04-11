@@ -15,6 +15,8 @@
     <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 <div>
+    <h2>Sobre mim: </h2>
+     <p>Sou uma pessoa quieta e caseira. No meu tempo livre gosto de tocar violão, ouvir música ou jogar no meu computador. Apesar de ser mais caseiro e quieto, isso não me impede de contribuir com minhas ideias em um projeto nem de comunicar-me abertamente após uma breve conversa. Além disso, acredito que minha personalidade me permita trabalhar com os mais diversos tipos de pessoas.</p>
     <h2>Algumas informações: </h2>
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
@@ -22,8 +24,6 @@
         <li>Futuramente também quero aprender <b>React e Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
-    <h2>Sobre mim: </h2>
-        <p>Sou uma pessoa quieta e caseira. No meu tempo livre gosto de tocar violão, ouvir música ou jogar no meu computador. Apesar de ser mais caseiro e quieto, isso não me impede de contribuir com minhas ideias em um projeto nem de comunicar-me abertamente após uma breve conversa. Além disso, acredito que minha personalidade me permita trabalhar com os mais diversos tipos de pessoas.</p>
     <img align="right" height="200em" alt="cat GIF" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
 </div>
 <div>
