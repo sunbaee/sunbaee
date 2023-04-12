@@ -16,7 +16,7 @@
 </div>
 <div>
     <h2>Sobre mim: </h2>
-     <p>Sou uma pessoa quieta e caseira. No meu tempo livre gosto de tocar violão, ouvir música ou jogar no meu computador. Apesar de ser mais caseiro e quieto, isso não me impede de contribuir com minhas ideias em um projeto nem de comunicar-me abertamente após uma breve conversa. Além disso, acredito que minha personalidade me permita trabalhar com os mais diversos tipos de pessoas.</p>
+     <p>Eu sou uma pessoa mais <i>calma e caseira</i>. Eu amo escutar música, tocar violão, jogar no meu computador e assistir animes e séries quando estou no meu tempo livre. Mesmo sendo mais introvertido, estou sempre aberto para conversas :). Ah! Eu também amo gatos, por isso o gif. 😼</p>
     <h2>Algumas informações: </h2>
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
