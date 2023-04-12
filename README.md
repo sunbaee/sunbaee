@@ -34,7 +34,7 @@
     <a href="mailto:saculbertazo@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
 </div>
 <h2></h2>
-<div align="center">
+<div>
   <br>
   <a href="https://github.com/sunbaee">
   <img alt="most used languages in github" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
