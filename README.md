@@ -16,7 +16,7 @@
 </div>
 <div>
     <h2>Sobre mim: </h2>
-     <p>Eu sou uma pessoa mais <i>calma e caseira</i>. Eu amo <b>escutar música, tocar violão, jogar no meu computador e assistir animes e séries</b> quando estou no meu tempo livre. Mesmo sendo mais introvertido, estou sempre aberto para conversas :). Ah! Eu também gosto muito de gatos, por isso o gif ali embaixo. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">\😼\</a></p>
+     <p>Eu sou uma pessoa mais <i>calma e caseira</i>. Eu amo <b>escutar música, tocar violão, jogar no meu computador e assistir animes e séries</b> quando estou no meu tempo livre. Mesmo sendo mais introvertido, estou sempre aberto para conversas :). Ah! Eu também gosto muito de gatos, por isso o gif ali embaixo<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">. 😼</a></p>
     <h2>Algumas informações: </h2>
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
