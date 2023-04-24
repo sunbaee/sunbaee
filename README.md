@@ -36,9 +36,6 @@
 </div>
 <h2></h2>
 <div align="center">
-  <br>
-  <img alt="most used languages in github" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunbaee&layout=compact&langs_count=7&theme=dracula"/>
-  <img alt="github stats" height="180rem" src="https://github-readme-stats.vercel.app/api?username=sunbaee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 </div>
 <br>
 <p><i>Tem um easter egg nesse texto! Boa sorte.</i></p>
