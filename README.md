@@ -11,9 +11,11 @@
     <img alt="html icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="css icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+     <img alt="express icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="c sharp icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="python icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 <div>
     <h2>Sobre mim: </h2>
@@ -22,6 +24,7 @@
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
         <li>Hoje em dia também estou aprendendo <b>JavaScript</b>, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meus repositórios. 📚</li>
+        <li>Começei a explorar o universo do back-end e estou aprendendo a usar diversas ferramentas, tais como NodeJS, Express e o banco de dados MongoDB. 🤯</li>
         <li>Futuramente também quero aprender <b>React e Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
