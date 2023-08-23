@@ -14,6 +14,8 @@
     <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
      <img alt="express icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+</div>
+<div align="right">
     <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="c sharp icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="python icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
