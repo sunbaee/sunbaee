@@ -2,7 +2,7 @@
     <h1>Seja bem-vindo ao meu perfil! 👋</h1>
     <h2>Prazer, meu nome é <i>Lucas.</i></h2>
     <p>
-        Tenho 17 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente estou focando em desenvolvimento web, mas conheço diversas linguagens e ferramentas, tais como <b>Java orientado a objetos, C#, Python básico, HTML e CSS</b> e estou aprendendo cada vez mais! 😵
+        Tenho 17 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente estou focando em desenvolvimento web e desenvolvimento de games em unity, mas também conheço outras linguagens e ferramentas, tais como <b>Java orientado a objetos, C#, Python básico, HTML e CSS</b> e estou aprendendo cada vez mais! 😵
     </p>
 </div>
 <div align="right">
@@ -27,7 +27,7 @@
         <li>Hoje em dia também estou aprendendo <b>JavaScript</b>, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meus repositórios. 📚</li>
         <li>Começei a explorar o universo do back-end e estou aprendendo a usar diversas ferramentas, tais como NodeJS, Express e o banco de dados MongoDB. 🤯</li>
         <li>Também estou aprendendo a utilizar React nos meus projetos Web. 😄</li>
-        <li>Futuramente também quero aprender <b>React e Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
+        <li>Futuramente também quero aprender <b>Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
     <img align="right" height="200em" alt="cat GIF" src="https://media.tenor.com/fTTVgygGDh8AAAAC/kitty-cat-sandwich.gif">
