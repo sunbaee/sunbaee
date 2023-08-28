@@ -11,6 +11,7 @@
     <img alt="html icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="css icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
      <img alt="react icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+     <img alt="mysql icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
      <img alt="express icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
