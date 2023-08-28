@@ -5,21 +5,27 @@
         Tenho 18 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente estou focando em desenvolvimento web e desenvolvimento de games em unity, mas também conheço outras linguagens e ferramentas, tais como <b>Java orientado a objetos, C#, Python básico, HTML e CSS</b> e estou aprendendo cada vez mais! 😵
     </p>
 </div>
-<div align="right">
-    <h2>Linguagens e Tecnologias</h2><br>
+<div align="left">
+    <h2>Linguagens e Tecnologias Front-End</h2><br>
     <img alt="javascript icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="html icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img alt="css icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-     <img alt="react icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img alt="mysql icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img alt="express icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img alt="react icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
-<div align="right">
+<div align="left">
+    <h2>Linguagens e Tecnologias Back-End</h2>
+    <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img alt="express js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img alt="c sharp icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img alt="python icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+<div align="right">
+    <h2>Outras tecnologias</h2>
+     <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="mysql icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img alt="google cloud icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img alt="mongodb icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 <div>
     <h2>Sobre mim: </h2>
@@ -27,9 +33,11 @@
     <h2>Algumas informações: </h2>
     <ul>
         <li>Estou cursando ciência da computação na <b>FADERGS</b> e ainda tenho um longo caminho pela frente. 🥳</li>
-        <li>Hoje em dia também estou aprendendo <b>JavaScript</b>, sendo que grande maioria dos meus projetos no github são feitos nessa linguagem. Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meus repositórios. 📚</li>
-        <li>Começei a explorar o universo do back-end e estou aprendendo a usar diversas ferramentas, tais como NodeJS, Express e o banco de dados MongoDB. 🤯</li>
+        <li>A maioria  dos meus projetos no github são feitos como javascript (front-end). Caso queira dar uma olhada nos meus projetos, basta usar esse <a target="_blank" href="https://github.com/sunbaee?tab=repositories">link</a> ou acessar meus repositórios. 📚</li>
+        <li> /* Começei a explorar o universo do back-end e estou aprendendo a usar diversas ferramentas, tais como NodeJS, Express e o banco de dados MongoDB. 🤯 */ </li>
+         <li>Edit: Já realizei diversos projetos utilizando <b>node-js e express juntamente com MongoDB</b> e projetos de api-rest utilizando <b>node e express com mySql</b>. Além disso, fiz projetos utilizando um servidor na <b>google cloud platform</b>, porém ainda estou buscando uma maneira de colocar esses projetos nos meus repositórios do github. 🧛🏻
         <li>Também estou aprendendo a utilizar React nos meus projetos Web. 😄</li>
+        <li>Agora estou explorando o área de desenvolvimento de jogos, e está sendo uma ótima experiência! 👾</li>
         <li>Futuramente também quero aprender <b>Typescript para aprimorar meu desenvolvimento web</b>, mas também estou aberto a experimentar outras áreas como machine learning e desenvolvimento de games. 💻</li>
         <li>Não esqueça de dar uma olhada nas minhas redes sociais! Você pode falar comigo pelo meu <a target="_blank" href="https://www.instagram.com/sunbaee._/" >instagram</a>, mais informações abaixo :)</li>
     </ul>
