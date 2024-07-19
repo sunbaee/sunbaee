@@ -2,7 +2,7 @@
     <h1>Seja bem-vindo ao meu perfil! 👋</h1>
     <h2>Prazer, meu nome é <i>Lucas.</i></h2>
     <p>
-        Tenho 18 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente estou focando em desenvolvimento web e desenvolvimento de games em unity, mas também conheço outras linguagens e ferramentas, tais como <b>Java orientado a objetos, C#, Python, HTML e CSS</b> e estou aprendendo cada vez mais! 😵
+        Tenho 19 anos de idade e começei a estudar as linguagens da programação a partir dos meus 15 anos. Começei aprendendo Python para entender sobre lógica da programação e, com o tempo, meu conhecimento acabou se expandindo bastante. Atualmente estou focando em desenvolvimento web e desenvolvimento de games em unity, mas também conheço outras linguagens e ferramentas, tais como <b>Java orientado a objetos, C#, Python, HTML e CSS</b> e estou aprendendo cada vez mais! 😵
     </p>
 </div>
 <div align="left">
