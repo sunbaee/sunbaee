@@ -1,16 +1,63 @@
-## Hi there 👋
+<pre><i> /ᐠ - ˕ -マ  Hello. </i></pre>
 
-<!--
-**sunbaee/sunbaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+I'm 19 years old and I've been programming for almost <b>4 years now</b>. 
+I've already programmed in many languages, but currently I'm focusing in <b>python, C# with unity and game dev in godot</b>. 
+All languages/tecnologies I already used or know are listed below. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">٩(^ᗜ^ )و</a>
+</pre>
 
-Here are some ideas to get you started:
+## Tecnologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>Front-End</b></summary>
+
+<h2></h2>
+<img alt="javascript icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="html icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="css icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="react icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+</details>
+
+<details>
+<summary><b>Back-End</b></summary>
+
+<h2></h2>
+<img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="express js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="c sharp icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="python icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</details>
+
+<details>
+<summary><b>Other</b></summary>
+
+<h2></h2>
+<img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="mysql icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="google cloud icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img alt="mongodb icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</details>
+
+## Random 
+
+<pre>
+1. Used mongoDB and mySQL for learning projects, although these are not accessible due to security reasons. 
+   Also used Google Cloud Platform to learn how to host a website.
+2. I want to learn more about machine learning, <i>maybe coding my own neural network will be my next project</i>.
+3. Currently studying astrophysics. I intend to work with something in-between tecnology and physics.
+4. Exploring game development, currently working in godot game engine.
+5. I know a tiny bit of react too.
+
+(≧∇≦)
+</pre>
+
+<h2></h2>
+
+_Feel free to contact me for any reason:_
+
+<a href="https://www.instagram.com/var.bycas/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:ehor.yes@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
+
+_Have you found the easter egg?_
