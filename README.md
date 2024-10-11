@@ -23,6 +23,7 @@ All languages/tecnologies I already used or know are listed below. <a href="http
 <summary><b>Back-End</b></summary>
 
 <h2></h2>
+<img alt="webpack icon" height="80em" width="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" />
 <img alt="node js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="express js icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img alt="java icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -34,6 +35,8 @@ All languages/tecnologies I already used or know are listed below. <a href="http
 <summary><b>Other</b></summary>
 
 <h2></h2>
+<img alt="godot icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />          
+<img alt="bash icon" height="80em" width="80em"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />          
 <img alt="git icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="mysql icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img alt="google cloud icon" height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
