@@ -1,8 +1,9 @@
 <pre><i> /ᐠ - ˕ -マ  Hello. </i></pre>
 
 <pre>
-I'm 19 years old and I've been programming for almost <b>4 years now</b>. 
-I've already programmed in many languages, but currently I'm focusing in <b>python, C# with unity and game dev in godot</b>. 
+I'm 19 years old and I've been programming for almost <b>4 years now</b>. I've already programmed in many languages, 
+but currently my projects are focused on <b>python, C# with Unity and game development in Godot</b>. 
+
 All languages/tecnologies I already used or know are listed below. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">٩(^ᗜ^ )و</a>
 </pre>
 
@@ -61,6 +62,8 @@ All languages/tecnologies I already used or know are listed below. <a href="http
 _Feel free to contact me for any reason:_
 
 <a href="https://www.instagram.com/var.bycas/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:ehor.yes@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br><br>
+<a href="mailto:ehor.yes@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<br>
 
 _Have you found the easter egg?_
