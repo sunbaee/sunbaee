@@ -1,7 +1,7 @@
 <pre><i> /ᐠ - ˕ -マ  Hello. </i></pre>
 
 <pre>
-I'm 19 years old and I've been programming for almost <b>5 years now</b>. I've already programmed in many languages, 
+I'm 19 years old and I've been programming for almost <b>6 years now</b>. I've already programmed in many languages, 
 but currently my projects are focused on <b>python, C# with Unity and game development in Godot</b>. 
 
 All languages/tecnologies I already used or know are listed below. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">٩(^ᗜ^ )و</a>
