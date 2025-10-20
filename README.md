@@ -62,7 +62,6 @@ All languages/tecnologies I already used or know are listed below. <a href="http
 
 _Feel free to contact me for any reason:_
 
-<a href="https://www.instagram.com/var.bycas/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:ehor.yes@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <br>
