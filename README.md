@@ -60,10 +60,4 @@ All languages/tecnologies I already used or know are listed below. <a href="http
 
 <h2></h2>
 
-_Feel free to contact me for any reason:_
-
-<a href="mailto:ehor.yes@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<br>
-
 _Have you found the easter egg?_
